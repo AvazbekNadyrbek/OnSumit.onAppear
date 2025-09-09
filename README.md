@@ -76,7 +76,4 @@ The app includes sample meeting data with:
 - iOS 15.0 or later
 - Swift 5.0 or later
 
-### Installation
-
-1. Clone the repository:
 
